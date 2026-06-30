@@ -1,7 +1,7 @@
 strict-sigcheck = false
 
 [YouTube-Stable]
-enabled = true
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
