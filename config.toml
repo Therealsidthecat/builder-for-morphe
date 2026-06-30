@@ -26,11 +26,11 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 "github:MorpheApp/morphe-patches" = []
 
 [YouTube-Experimental]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 version = "21.25.523"
-patcher-args = "-e 'Change header' -Ocustom=icons/YouTube/header -e 'Custom branding' -OcustomIcon=icons/YouTube/branding -OcustomName='YouTube Morphe'"
+patcher-args = "-e 'Change header' -Ocustom=icons/YouTube/header -e 'Custom branding' -OcustomIcon=icons/YouTube/branding -OcustomName='DeltaTube'"
 
 [YouTube-Experimental.patches]
 "github:MorpheApp/morphe-patches" = []
